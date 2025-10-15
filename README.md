@@ -20,8 +20,8 @@ A beginner bioinformatics project that analyzes DNA sequences using Python.
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com) *(you can add your real link later)*
-- 📧 sameera@example.com *(optional — if you want to add an email)*
+- 💼 [LinkedIn](https://www.linkedin.com) 
+- 📧 sameerailyas.1659@gmail.com 
 
 ---
 
