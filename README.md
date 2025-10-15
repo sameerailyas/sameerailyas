@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sameera Ilyas!
 
-<!--
-**sameerailyas/sameerailyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Aspiring Bioinformatics & Data Science Learner**  
+🔬 Passionate about analyzing biological data using Python and Machine Learning  
+📊 Exploring projects in genomics, data visualization, and AI for healthcare  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 My Latest Project
+🔗 [DNA Sequence Analysis](https://github.com/sameerailyas/DNA-Sequence-Analysis-)  
+A beginner bioinformatics project that analyzes DNA sequences using Python.
+
+---
+
+### 🛠️ Skills & Tools
+- Python | Pandas | NumPy | Matplotlib  
+- BioPython | Data Analysis | Jupyter Notebooks  
+- Git | GitHub | Data Visualization  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com) *(you can add your real link later)*
+- 📧 sameera@example.com *(optional — if you want to add an email)*
+
+---
+
+⭐ *“Turning biological data into meaningful discoveries.”*
