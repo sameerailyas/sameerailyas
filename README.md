@@ -1,28 +1,18 @@
-# 👋 Hi, I'm Sameera Ilyas!
+👋 Hi, I'm Sameera Ilyas (Meera)
 
-🌱 **Aspiring Bioinformatics & Data Science Learner**  
-🔬 Passionate about analyzing biological data using Python and Machine Learning  
-📊 Exploring projects in genomics, data visualization, and AI for healthcare  
+🎓 MS Bioinformatics | COMSATS University Islamabad
+🔬 RNA-seq | Microarray | Differential Gene Expression
+💻 R (DESeq2, edgeR, ggplot2) | Python | Bioconductor
 
----
+## Current Work
+- Co-authored manuscript on cardiovascular transcriptomics (submitted)
+- HCC cancer pathway analysis (in preparation)
+- Internships: BioinfoX (WGS) | BioNexam (Data to Publication)
 
-### 🧬 My Latest Project
-🔗 [DNA Sequence Analysis](https://github.com/sameerailyas/DNA-Sequence-Analysis-)  
-A beginner bioinformatics project that analyzes DNA sequences using Python.
+## Skills
+R | Python | DESeq2 | edgeR | ggplot2 | Bioconductor
+Kaplan-Meier | Cox Regression | GSEA | Linux | Git
 
----
-
-### 🛠️ Skills & Tools
-- Python | Pandas | NumPy | Matplotlib  
-- BioPython | Data Analysis | Jupyter Notebooks  
-- Git | GitHub | Data Visualization  
-
----
-
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com) 
-- 📧 sameerailyas.1659@gmail.com 
-
----
-
-⭐ *“Turning biological data into meaningful discoveries.”*
+## Connect
+💼 linkedin.com/in/sameera-i-85647a370
+📧 sameerailyas.1659@gmail.com
