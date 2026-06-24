@@ -1,4 +1,4 @@
-👋 Hi, I'm Sameera Ilyas (Meera)
+👋 Hi, I'm Sameera Ilyas 
 
 🎓 MS Bioinformatics | COMSATS University Islamabad
 🔬 RNA-seq | Microarray | Differential Gene Expression
